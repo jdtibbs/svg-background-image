@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/jdtibbs/svg-background-image/issues"
   },
-  "homepage": "https://github.com/jdtibbs/svg-background-image#readme"
+  "homepage": "https://github.com/jdtibbs/svg-background-image#readme",
+  "dependencies": {}
 }
