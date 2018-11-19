@@ -1,0 +1,23 @@
+{
+  "name": "svg-background-image-x0",
+  "version": "1.0.0",
+  "description": "sandbox",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdtibbs/svg-background-image.git"
+  },
+  "keywords": [],
+  "author": "jdtibbs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdtibbs/svg-background-image/issues"
+  },
+  "homepage": "https://github.com/jdtibbs/svg-background-image#readme",
+  "dependencies": {
+    "bootstrap": "4.1.3"
+  }
+}
