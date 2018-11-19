@@ -1,0 +1,14 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox="0 0 100 100" width="100%">
+  <defs>
+      <linearGradient id="gradient">
+        <stop class="stop1" offset="0%"/>
+        <stop class="stop2" offset="100%"/>
+      </linearGradient>
+    <style type="text/css"><![CDATA[
+        #poly { fill: url(#gradient); }
+        .stop1 { stop-color: #005e82; }
+        .stop2 { stop-color: #0198D2; }
+      ]]></style>
+  </defs>
+  <polygon id="poly" points="0 0, 0 50, 100 40, 100 0" />
+</svg>
